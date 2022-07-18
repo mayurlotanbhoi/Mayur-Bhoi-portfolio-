@@ -26,6 +26,7 @@
     background-color: #ef4c90;
     border-radius: 5px;
     border: 2px solid rgb(247, 83, 247);
+    cursor: pointer;
 }
 
 .head {
