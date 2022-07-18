@@ -14,6 +14,7 @@
 .logo {
     margin: auto auto auto 30px;
     float: left;
+    color: aliceblue;
 }
 
 .home:hover {
