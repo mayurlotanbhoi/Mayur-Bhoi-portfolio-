@@ -16,9 +16,9 @@ Personal portfolio sites are consistent that need to be taken care of throughout
 On this site [Personal Portfolio], there are five sections on one page – Home, About, project, Skills and Contact, and each section is attractive and eye-catching. On the home page of this site, on the top, there is a fixer navigation bar with a logo on the left side and some navigation links are on the right side. On the left side of the home page, there are texts which are about the author’s name, profession, and a button labeled as “Download” as you can see on demo site
 
 ## Original Functionalities Or Tech Stack ==>
- 1) Navigation => In this portfolio there are five section you can easily travel on that by simply clicking on navbar buttons {HOME,ABOUT,PROJECT,SKILLS},
+ 1).Navigation => In this portfolio there are five section you can easily travel on that by simply clicking on navbar buttons {HOME,ABOUT,PROJECT,SKILLS},
 
-2) Download-button => you can easily download the cv {resume} by clicking on Download button,
+2).Download-button => you can easily download the cv {resume} by clicking on Download button,
 
 
 ## Demo
