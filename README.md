@@ -17,7 +17,7 @@ On this site [Personal Portfolio], there are five sections on one page – Home,
 
 ## Original Functionalities Or Tech Stack ==>
  1)Navigation => In this portfolio there are five section you can easily travel on that by simply clicking on navbar buttons {HOME,ABOUT,PROJECT,SKILLS},
-2)Download => you can easily download the cv {resume} by clicking on Download button,
+2)Download-button => you can easily download the cv {resume} by clicking on Download button,
 
 
 ## Demo
