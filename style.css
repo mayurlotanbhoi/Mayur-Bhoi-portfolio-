@@ -68,6 +68,9 @@
     padding-left: 40px;
     margin-top: 80px;
 }
+.inform{
+    line-height: 25px;
+}
 
 .hello {
     margin-bottom: -30px;
@@ -239,6 +242,9 @@
     box-shadow: inset 4px 4px 6px -1px rgba(0, 0, 0, 0.2), inset -4px -4px 6px -1px rgba(255, 255, 255, 0.7), -0.5px -0.5px 0px 0px rgba(255, 255, 255, 1), 0px 12px 10px 10px rgba(0, 0, 0, 0.05)
 }
 
+.para{
+    line-height: 40px;
+}
 .html {
     margin-top: 30px;
 }
