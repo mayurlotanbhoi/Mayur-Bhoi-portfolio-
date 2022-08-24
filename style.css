@@ -38,6 +38,7 @@
     background-color: #aa265c;
     position: fixed;
     overflow: hidden;
+       z-index: 9999;
 }
 
 .nav {
